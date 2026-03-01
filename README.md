@@ -41,8 +41,8 @@ The app provides essential weather data through a clean, responsive, and user-fr
 
 ## 📷 Screenshot
 
-![Weather App Screenshot](images/Screenshot 1.png)
-![Weather App Screenshot](images/Screenshot 2.png)
+![Weather App Screenshot](image/Screenshot 1.png)
+![Weather App Screenshot](image/Screenshot 2.png)
 
 
 ---
