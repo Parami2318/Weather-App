@@ -9,7 +9,7 @@
 This is a simple **Weather Checking Application** built using **HTML, CSS, and JavaScript**.
 The application allows users to search weather information by city name and view real-time weather details powered by the **OpenWeather API**.
 
-The app provides essential weather data through a clean, responsive, and user-friendly interface that works smoothly on both desktop and mobile devices.
+The app provides essential weather data through a clean, responsive, and user-friendly interface that works smoothly.
 
 ---
 
@@ -39,11 +39,12 @@ The app provides essential weather data through a clean, responsive, and user-fr
 
 ---
 
-## 📷 Screenshot
+## 📷 Screenshots
 
-![Weather App Screenshot](image/Screenshot 1.png)
-![Weather App Screenshot](image/Screenshot 2.png)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eab66da6-d097-4e24-bafd-feee1f82d2da" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a4cd47a1-cd0d-4ae7-a750-fd60670cd83d" width="45%" />
+</p>
 
 ---
 
